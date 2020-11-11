@@ -444,8 +444,8 @@ hr {
 }
 
 .img-fluid {
-  max-width: 90%;
-  height: auto
+  max-width: 100%;
+  height:30rem;
 
 }
 
